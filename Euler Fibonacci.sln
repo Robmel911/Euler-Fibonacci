@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler Fibonacci", "Euler Fibonacci\Euler Fibonacci.csproj", "{15B03352-967E-4ED4-9706-5F7918CB7111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B03352-967E-4ED4-9706-5F7918CB7111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B03352-967E-4ED4-9706-5F7918CB7111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B03352-967E-4ED4-9706-5F7918CB7111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B03352-967E-4ED4-9706-5F7918CB7111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0005F346-B0A3-4B28-AF01-5E8555009A29}
+	EndGlobalSection
+EndGlobal
